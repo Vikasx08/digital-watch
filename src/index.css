@@ -21,8 +21,6 @@ code {
   align-items: center;
   justify-content: center;
   text-transform: uppercase;
-  font-size: 90px;
+  font-size: 5vw;
 }
-.main h1 {
-  width: 50%;
-}
+
